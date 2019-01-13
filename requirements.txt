@@ -1,0 +1,17 @@
+pip install requests
+pip install user-agent
+pip install nltk
+pip install beautifulsoup4
+
+
+The module also needs to download some nltk data. To download those data, please perform the following steps:
+1.) create a python file
+2.) paste the following code into that file:
+import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt')
+
+3.) then run the file
+
+It will download all the necessary files in to make the module run.
