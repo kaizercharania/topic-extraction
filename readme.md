@@ -1,5 +1,10 @@
-This module is used to extract topics relevant to the web page you want to know. \n
-The module uses:\n
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+
+### This module is used to extract topics relevant to the web page you want to know.
+The module uses:
+
 --> user-agent library to make server understand that a user is accessing the webpage and not the code
 --> Requests library to send a HTTP/1.1 get request to the server.
 --> BeautifulSoup library to parse the content of the page source
