@@ -2,7 +2,7 @@
 ******************************************************************************************************************************
 
 
-### This module is used to extract topics relevant to the web page you want to know.
+### This module is used to extract topics relevant to the web page that you want to know about.
 The module uses:<br />
 <br />
 --> user-agent library to make server understand that a user is accessing the webpage and not the code<br />
